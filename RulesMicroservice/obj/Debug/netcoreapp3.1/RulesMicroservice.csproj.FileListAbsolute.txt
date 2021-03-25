@@ -1,0 +1,80 @@
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csprojAssemblyReference.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.xml
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\RulesMicroservice.styles.css
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Dotnet\MFPE\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csprojAssemblyReference.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.xml
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\RulesMicroservice.styles.css
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Cognizant Training\Project\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csprojAssemblyReference.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.xml
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\RulesMicroservice.styles.css
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+F:\Dotnet\MFPE\RulesMicroserviceUpdated\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.exe
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.deps.json
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.json
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.runtimeconfig.dev.json
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.dll
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\bin\Debug\netcoreapp3.1\RulesMicroservice.pdb
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csprojAssemblyReference.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfoInputs.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.AssemblyInfo.cs
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\RulesMicroservice.StaticWebAssets.xml
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\RulesMicroservice.styles.css
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.dll
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.pdb
+C:\Users\VickySuriya\source\repos\MFPF-FINAL\Retail_Banking_System(Final)\RulesMicroservice\RulesMicroservice\obj\Debug\netcoreapp3.1\RulesMicroservice.genruntimeconfig.cache

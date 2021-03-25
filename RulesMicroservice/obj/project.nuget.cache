@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFPueR3qQy5Tkv/zCf3IMWVZYNyG+D3kbaigg8YS2OjUxN534lgVxvH53BYeW/TBMhmXhiGeMU3uaFV2xEj+Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VickySuriya\\source\\repos\\MFPF-FINAL\\Retail_Banking_System(Final)\\RulesMicroservice\\RulesMicroservice\\RulesMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VickySuriya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
